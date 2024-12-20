@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Breyiannis"
+    given-names: "George"
+    orcid: "https://orcid.org/0000-0003-0666-6033"
+  - family-names: "Valougeorgis"
+    given-names: "Dimitrios"
+    orcid:
+  doi: "10.0000/00000"
+  journal: "Computers & Fluids"
+  month:
+  start: 920 # First page number
+  end: 924 # Last page number
+  title: "Lattice kinetic simulations of 3-D MHD turbulence"
+  issue: 35
+  volume:
+  year: 2006
