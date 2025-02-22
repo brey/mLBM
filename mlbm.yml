@@ -1,0 +1,15 @@
+name: mlbm_open
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - openmpi-mpifort
+  - pandas
+  - ipykernel
+  - ipympl
+  - matplotlib
+  - pyvista
+  - trame
+  - trame-vtk
+  - trame-vuetify
